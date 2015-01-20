@@ -1,0 +1,4 @@
+"make bin" generates all binaries and writes them in the bin/ directory
+"make tst" generates all binaries and run then
+"make perf" collects all perf output in the perf/ directory
+"make clean" removes all files generated from the initial distribution
